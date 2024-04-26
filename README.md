@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **programming languages**
 
-- 💬 Ask me about **python,html,c,c++**
+- 💬 Ask me about **python,html,c,c++,java**
 
 - 📫 How to reach me **deveshvispute16@gmail.com**
 
